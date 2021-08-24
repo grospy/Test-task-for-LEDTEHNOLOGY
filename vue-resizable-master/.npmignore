@@ -1,0 +1,5 @@
+node_modules/
+dev/
+.idea
+.git
+test/unit/coverage

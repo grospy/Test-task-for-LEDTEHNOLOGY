@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.idea
+dev/
+package-lock.json
+yarn.lock
+test/unit/coverage
